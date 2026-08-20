@@ -1,7 +1,7 @@
 # Entra SMS/Voice Audit Toolkit
 
 **Author:** Shannon Eldridge-Kuehn
-**Blog:** [Cloudy Musings](https://shankuehn.io)
+**Blog:** [Cloudy Musings](https://www.shankuehn.io/post/passkeys-by-default-entra-retires-sms-and-voice-mfa)
 **GitHub:** [@sbkuehn](https://github.com/sbkuehn)
 **License:** MIT
 

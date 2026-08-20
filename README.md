@@ -1,7 +1,7 @@
 # Entra SMS/Voice Audit Toolkit
 
 **Author:** Shannon Eldridge-Kuehn
-**Blog:** [Cloudy Musings](https://www.shankuehn.io/post/passkeys-by-default-entra-retires-sms-and-voice-mfa)
+**Blog:** [Cloudy Musings](https://www.shankuehn.io/)
 **GitHub:** [@sbkuehn](https://github.com/sbkuehn)
 **License:** MIT
 
@@ -9,8 +9,8 @@ A PowerShell audit toolkit for identifying Microsoft Entra ID users who are
 still relying on SMS or voice authentication ahead of Microsoft's retirement
 of Microsoft-provided SMS and voice delivery on **February 1, 2027**.
 
-> Written up in full on Cloudy Musings: *Passkeys by Default: Entra Retires
-> SMS and Voice MFA*
+> [Written up in full on Cloudy Musings: *Passkeys by Default: Entra Retires
+> SMS and Voice MFA*](https://www.shankuehn.io/post/passkeys-by-default-entra-retires-sms-and-voice-mfa)
 
 ## Why this exists
 

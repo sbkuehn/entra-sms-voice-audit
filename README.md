@@ -82,15 +82,6 @@ with one row per user still enabled for SMS or voice, including:
 - Whether SMS/voice is their **only** method (`OnlySmsOrVoice`), the
   priority column for remediation
 
-## Roadmap
-
-- [ ] Graph `$batch` support for large tenants
-- [ ] Optional group-based scoping instead of full tenant sweep
-- [ ] HTML summary report in addition to CSV
-- [ ] Pipeline-friendly output object for direct integration into other tooling
-
-Contributions and issues welcome via GitHub.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).

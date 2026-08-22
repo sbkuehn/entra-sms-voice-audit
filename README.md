@@ -56,10 +56,10 @@ phishing-resistant fallback** (the ones who will be blocked on February 1,
 2027).
 
 For full setup instructions, required permissions, and parameter details,
-see [docs/HOWTO.md](docs/HOWTO.md).
+see [HOWTO.md](HOWTO.md).
 
 For a deeper technical breakdown of what the script does, how it scales, and
-how to extend it, see [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md).
+how to extend it, see [DOCUMENTATION.md](DOCUMENTATION.md).
 
 ## Requirements
 
